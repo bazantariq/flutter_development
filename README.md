@@ -1,4 +1,4 @@
-# flutter_development
+# Flutter Development
 
 This GitHub repository is your go-to resource for all things related to Flutter app development. Whether you're following along with our classes or checking out our YouTube tutorials, you'll find all the code right here. We're committed to sharing the knowledge and code we cover in our lessons, making it easy for you to access, learn, and build amazing Flutter apps. Join our community of developers, explore our projects, and let's create together! Don't forget to star and fork the repository to stay up-to-date with our latest code releases.
 
@@ -7,6 +7,9 @@ This GitHub repository is your go-to resource for all things related to Flutter 
 This project is a starting point for a Flutter application.
 
 A few resources to get you started if this is your first Flutter project:
+
+Lec # 0: [Installing Android Studio] (https://www.youtube.com/watch?v=jY7Fwgp6xwg&ab_channel=codetrix)
+Lec # 0.1: [Setpup Flutter SDK] (https://www.youtube.com/watch?v=g3bxFPtlDto&ab_channel=codetrix)
 
 - [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
 - [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
