@@ -8,8 +8,8 @@ This project is a starting point for a Flutter application.
 
 A few resources to get you started if this is your first Flutter project:
 
-- Lec # 0: [Installing Android Studio] (https://www.youtube.com/watch?v=jY7Fwgp6xwg&ab_channel=codetrix)
-- Lec # 0.1: [Setpup Flutter SDK] (https://www.youtube.com/watch?v=g3bxFPtlDto&ab_channel=codetrix)
+- Lec # 0: [Installing Android Studio](https://www.youtube.com/watch?v=jY7Fwgp6xwg&ab_channel=codetrix)
+- Lec # 0.1: [Setpup Flutter SDK](https://www.youtube.com/watch?v=g3bxFPtlDto&ab_channel=codetrix)
 
 - [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
 - [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
